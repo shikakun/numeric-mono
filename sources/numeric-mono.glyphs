@@ -1,5 +1,8 @@
 {
 .appVersion = "126";
+DisplayStrings = (
+"-"
+);
 copyright = "Copyright 2015 The Roboto Mono Project Authors (https://github.com/googlefonts/robotomono)";
 date = "2008-09-12 12:29:34 +0000";
 designer = Google;
@@ -11257,10 +11260,22 @@ unicode = 005D;
 },
 {
 glyphname = hyphen;
-lastChange = "2025-05-25 14:56:10 +0000";
+lastChange = "2025-05-26 15:18:20 +0000";
 layers = (
 {
 layerId = "F4097653-A9A4-44E6-964D-6A1AD0606D75";
+paths = (
+{
+closed = 1;
+nodes = (
+"983 561 LINE",
+"218 561 LINE",
+"218 713 LINE",
+"983 713 LINE",
+"983 561 LINE"
+);
+}
+);
 width = 1229;
 }
 );

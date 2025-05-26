@@ -6,7 +6,7 @@ Numeric Mono は、 [Roboto Mono](https://github.com/googlefonts/RobotoMono) を
 ## 収録文字
 
 ```plaintext
-0123456789,.$¥+-
+0123456789,.$¥+-−
 ```
 
 `0` のみ、オリジナルからスラッシュを削除したグリフへ改変しました。
